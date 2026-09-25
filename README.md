@@ -18,4 +18,4 @@ Open the HTML file in a web browser or use the Live Demo link above.
 
 ## Author
 S. Rakhesh Videsh
-Chennai Institute of Technology
+
